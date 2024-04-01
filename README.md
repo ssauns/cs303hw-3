@@ -1,1 +1,5 @@
-# cs303hw-3
+# cs303hw-3 
+For question 1, I created a circular queue with integers 1-100, in increments of 10 (10,20,30,40,50,60,70,80,90,100). I used the push function to accomplish this. I also included the functions, pop, empty, front, and size to accomplish part a and part b of question 1. 
+For part c, I created a function called "move_to_rear" and it movements value 10 to the end of the array (the rear) and all the other values shift in accordance.
+For question 2, I created a recursive linear search function. I first copied my circular queue, then I converted it into a vector. After the conversion process, then I wrote the code for the linear search function. It finds the last occurence to be at value 20
+For question 3, I implemented an insertion sort code. At first, I had difficultites with my code remaining the same from my previous code (it was unsorted), but I found the solution to be in the order of how I wrote my code. I moved my front code after my insertion code and finally my code sorted. 
